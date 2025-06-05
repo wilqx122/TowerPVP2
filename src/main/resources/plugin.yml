@@ -1,0 +1,9 @@
+name: TowerPVP
+main: com.towerpvp.TowerPVP
+version: 1.0
+api-version: 1.20
+commands:
+  towerpvp:
+    description: Otwiera GUI TowerPVP
+    usage: /towerpvp
+    permission: towerpvp.use
